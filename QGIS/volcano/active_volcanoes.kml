@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="PolyStyle1">
+  <IconStyle>
+  <Icon>
+  <href>//maps.gsi.go.jp/portal/sys/v4/symbols/101.png</href>
+  </Icon>
+  <scale>0.7</scale>
+  </IconStyle>
+</Style>
+<Placemark>
+<name>知床硫黄山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>しれとこいおうざん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1562</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>44°08′00″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>145°09′41″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/101_Siretokoiou/101_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>145.161388888889,44.1333333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>羅臼岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らうすだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1661</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>44°04′33″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>145°07′20″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/102_Rausudake/102_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>145.122222222222,44.0758333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>天頂山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>てんちょうざん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1046</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>44°02′40″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>145°05′09″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/119_Tenchozan/119_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>145.085833333333,44.0444444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>摩周</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ましゅう</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>857</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>43°34′20″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>144°33′39″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/103_Mashu/103_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>144.560833333333,43.5722222222222</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>アトサヌプリ</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>あとさぬぷり</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>508</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>43°36′37″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>144°26′19″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/104_Atosanupri/104_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>144.438611111111,43.6102777777778</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>雄阿寒岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>おあかんだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1370</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>43°27′15″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>144°09′53″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/120_Oakandake/120_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>144.164722222222,43.4541666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>雌阿寒岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>めあかんだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1499</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>43°23′11″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>144°00′31″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/105_Meakan/105_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>144.008611111111,43.3863888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>丸山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>まるやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1692</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>43°25′03″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>143°01′52″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/106_Maruyama/106_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>143.031111111111,43.4175</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>大雪山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>たいせつざん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2291</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>43°39′49″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>142°51′15″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/107_Taisetusan/107_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>142.854166666667,43.6636111111111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>十勝岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>とかちだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2077</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>43°25′04″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>142°41′11″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/108_Tokachi/108_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>142.686388888889,43.4177777777778</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>利尻山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>りしりざん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1721</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>45°10′43″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°14′31″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/116_Rishiri/116_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.241944444444,45.1786111111111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>樽前山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>たるまえさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1041</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>42°41′26″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°22′36″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/109_Tarumae/109_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.376666666667,42.6905555555556</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>恵庭岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>えにわだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1320</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>42°47′36″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°17′07″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/110_Eniwa/110_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.285277777778,42.7933333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>倶多楽</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>くったら</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>377</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>42°30′19″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°08′40″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/111_Kuttara/111_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.144444444444,42.5052777777778</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>有珠山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>うすざん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>733</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>42°32′38″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°50′21″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/112_Usu/112_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.839166666667,42.5438888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>羊蹄山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ようていざん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1898</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>42°49′36″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°48′41″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/117_Yotei/117_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.811388888889,42.8266666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ニセコ</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>にせこ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1116</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>42°53′07″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°38′26″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/118_Niseko/118_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.640555555556,42.8852777777778</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>北海道駒ヶ岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ほっかいどうこまがたけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1131</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>42°03′48″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°40′38″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/113_Komagatake/113_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.677222222222,42.0633333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>恵山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>えさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>618</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>41°48′17″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°09′58″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/114_Esan/114_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.166111111111,41.8047222222222</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>渡島大島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>おしまおおしま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>732</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>41°30′36″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°22′02″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/115_Osimaosima/115_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.367222222222,41.51</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>恐山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>おそれざん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>878</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>41°16′43″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°07′12″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/201_Osorezan/201_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.12,41.2786111111111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>岩木山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>いわきさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1625</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>40°39′21″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°18′11″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/202_Iwakisan/202_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.303055555556,40.6558333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>八甲田山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>はっこうださん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1585</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>40°39′32″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°52′38″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/203_Hakkodasan/203_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.877222222222,40.6588888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>十和田</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>とわだ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>690</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>40°27′34″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°54′36″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/204_Towada/204_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.91,40.4594444444445</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>秋田焼山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>あきたやけやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1366</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>39°57′50″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°45′25″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/205_Akita-Yakeyama/205_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.756944444444,39.9638888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>八幡平</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>はちまんたい</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1613</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>39°57′28″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°51′15″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/206_Hachimantai/206_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.854166666667,39.9577777777778</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>岩手山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>いわてさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2038</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>39°51′09″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°00′04″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/207_Iwatesan/207_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.001111111111,39.8525</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>秋田駒ヶ岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>あきたこまがたけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1637</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>39°45′40″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°47′58″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/208_Akita-Komagatake/208_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.799444444444,39.7611111111111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>鳥海山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ちょうかいさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2236</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>39°05′57″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°02′56″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/209_Chokaisan/209_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.048888888889,39.0991666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>栗駒山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>くりこまやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1626</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>38°57′39″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°47′18″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/210_Kurikomayama/210_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.788333333333,38.9608333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>鳴子</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>なるこ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>470<br/></td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>38°43′44″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°44′04″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/211_Naruko/211_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.734444444444,38.7288888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>肘折</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ひじおり</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>552</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>38°35′57″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°09′42″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/217_Hijiori/217_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.161666666667,38.5991666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>蔵王山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ざおうざん（ざおうさん）</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1841</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>38°08′37″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°26′24″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/212_Zaozan/212_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.44,38.1436111111111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>吾妻山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>あづまやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1949</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>37°44′07″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°14′40″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/213_Azumayama/213_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.244444444444,37.7352777777778</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>安達太良山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>あだたらやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1709</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>37°37′59″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°16′59″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/214_Adatarayama/214_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.283055555556,37.6330555555556</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>磐梯山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ばんだいさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1816</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>37°36′04″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°04′20″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/215_Bandaisan/215_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.072222222222,37.6011111111111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>沼沢</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ぬまざわ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>835</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>37°26′40″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°33′58″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/218_Numazawa/218_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.566111111111,37.4444444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>燧ヶ岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ひうちがたけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2356</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°57′18″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°17′07″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sendai/216_Hiuchigatake/216_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.285277777778,36.955</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>那須岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>なすだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1915</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>37°07′29″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°57′46″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/301_Nasudake/301_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.962777777778,37.1247222222222</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>高原山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>たかはらやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1795</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°54′00″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°46′36″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/333_Takaharayama/333_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.776666666667,36.9</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>日光白根山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>にっこうしらねさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2578</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°47′55″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°22′33″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/302_Nikko-Shiranesan/302_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.375833333333,36.7986111111111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>赤城山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>あかぎさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1828</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°33′37″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°11′36″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/303_Akagisan/303_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.193333333333,36.5602777777778</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>榛名山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>はるなさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1449</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°28′38″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>138°51′03″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/304_Harunasan/304_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>138.850833333333,36.4772222222222</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>草津白根山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>くさつしらねさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2160</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°38′38″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>138°31′40″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/305_Kusatsu-Shiranesan/305_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>138.527777777778,36.6438888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>浅間山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>あさまやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2568</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°24′23″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>138°31′23″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/306_Asamayama/306_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>138.523055555556,36.4063888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>横岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>よこだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2480</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°05′14″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>138°19′13″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/334_Yokodake/334_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>138.320277777778,36.0872222222222</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>新潟焼山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>にいがたやけやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2400</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°55′15″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>138°02′09″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/307_Niigata-Yakeyama/307_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>138.035833333333,36.9208333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>妙高山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>みょうこうさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2454</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°53′29″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>138°06′49″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/308_Myokosan/308_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>138.113611111111,36.8913888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>弥陀ヶ原</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>みだがはら</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2621</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°34′16″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>137°35′23″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/309_Midagahara/309_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>137.589722222222,36.5711111111111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>焼岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>やけだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2455</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°13′37″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>137°35′13″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/310_Yakedake/310_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>137.586944444444,36.2269444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>アカンダナ山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>あかんだなやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2109</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°12′01″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>137°34′22″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/335_Akandanayama/335_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>137.572777777778,36.2002777777778</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>乗鞍岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>のりくらだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>3026</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°06′23″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>137°33′13″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/311_Norikuradake/311_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>137.553611111111,36.1063888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>御嶽山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>おんたけさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>3067</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>35°53′34″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>137°28′49″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/312_Ontakesan/312_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>137.480277777778,35.8927777777778</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>白山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>はくさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2702</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°09′18″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>136°46′17″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/313_Hakusan/313_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>136.771388888889,36.155</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>富士山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ふじさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>3776</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>35°21′39″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>138°43′39″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/314_Fujisan/314_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>138.7275,35.3608333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>箱根山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>はこねやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1438</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>35°14′00″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°01′15″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/315_Hakoneyama/315_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.020833333333,35.2333333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>伊豆東部火山群</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>いずとうぶかざんぐん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>580</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>34°54′11″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°05′41″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/316_Izu-TobuVG/316_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.094722222222,34.9030555555556</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>伊豆大島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>いずおおしま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>758</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>34°43′28″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°23′40″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/317_Izu-Oshima/317_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.394444444444,34.7244444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>利島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>としま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>508</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>34°31′13″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°16′45″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/336_Toshima/336_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.279166666667,34.5202777777778</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>新島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>にいじま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>432</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>34°23′49″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°16′13″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/318_Niijima/318_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.270277777778,34.3969444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>神津島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>こうづしま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>572</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>34°13′10″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°09′11″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/319_Kozushima/319_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.153055555556,34.2194444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>三宅島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>みやけじま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>775</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>34°05′37″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°31′34″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/320_Miyakejima/320_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.526111111111,34.0936111111111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>御蔵島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>みくらじま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>851</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>33°52′28″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°36′07″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/337_Mikurajima/337_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.601944444444,33.8744444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>八丈島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>はちじょうじま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>854</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>33°08′13″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°45′58″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/321_Hachijojima/321_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.766111111111,33.1369444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>青ヶ島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>あおがしま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>423</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>32°27′30″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°45′33″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/322_Aogashima/322_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.759166666667,32.4583333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ベヨネース列岩</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>べよねえすれつがん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>-50</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>31°55.1′</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°01.3′</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/323_BeyonesuRocks/323_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.021666666667,31.9183333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>須美寿島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>すみすじま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>136</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>31°26′23″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°03′02″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/324_Sumisujima/324_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.050555555556,31.4397222222222</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>伊豆鳥島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>いずとりしま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>394</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>30°29′02″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°18′11″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/325_Izu-Torishima/325_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.303055555556,30.4838888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>孀婦岩</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>そうふがん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>99</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>29°47′39″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°20′31″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/338_Sofugan/338_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.341944444444,29.7941666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>西之島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>にしのしま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>25</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>27°14′49″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>140°52′28″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/326_Nishinoshima/326_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>140.874444444444,27.2469444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>海形海山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>かいかたかいざん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>-449</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>26°42′33″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°04′27″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/339_KaikataSeamount/339_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.074166666667,26.7091666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>海徳海山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>かいとくかいざん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>-95</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>26°07.6′</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°06.1′</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/327_KaitokuSeamount/327_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.1016667,26.12666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>噴火浅根</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ふんかあさね</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>-20</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>25°27.3′</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°14.3′</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/328_FunkaAsane/328_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.2383333,25.455</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>硫黄島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>いおうとう</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>170</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>24°45′02″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°17′21″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/329_Ioto/329_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.289166666667,24.7505555555556</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>北福徳堆</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>きたふくとくたい</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>-73</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>24°25.0′</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°25.0′</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/330_Kita-Fukutokutai/330_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.4166667,24.41666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>福徳岡ノ場</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ふくとくおかのば</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>-29</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>24°17′05″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°28′52″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/331_Fukutoku-Oka-no-Ba/331_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.481111111111,24.2847222222222</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>南日吉海山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>みなみひよしかいざん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>-107</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>23°30.0′</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>141°56.1′</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/340_MinamihiyoshiSeamount/340_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>141.935,23.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>日光海山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>にっこうかいざん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>-392</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>23°04′42″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>142°19′32″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/341_NikkoSeamount/341_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>142.3256,23.07833</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>三瓶山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>さんべさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1126</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>35°08′26″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>132°37′18″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/401_Sanbesan/401_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>132.621666666667,35.1405555555556</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>阿武火山群</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>あぶかざんぐん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>112</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>34°26′58″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>131°24′07″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/512_Abu/512_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>131.401944444444,34.4494444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>鶴見岳・伽藍岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>つるみだけ・がらんだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1375</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>33°17′12″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>131°25′47″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/513_Tsurumidake_Garandake/513_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>131.429722222222,33.2866666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>由布岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ゆふだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1583</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>33°16′56″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>131°23′25″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/514_Yufudake/514_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>131.390277777778,33.2822222222222</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>九重山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>くじゅうさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1791</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>33°05′09″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>131°14′56″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/502_Kujusan/502_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>131.248888888889,33.0858333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>阿蘇山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>あそさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1592</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>32°53′04″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>131°06′14″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/503_Asosan/503_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>131.103888888889,32.8844444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>雲仙岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>うんぜんだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1483</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>32°45′41″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>130°17′56″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/504_Unzendake/504_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>130.298888888889,32.7613888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>福江火山群</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ふくえかざんぐん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>315</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>32°39′24″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>128°50′56″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/515_Fukue/515_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>128.848888888889,32.6566666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>霧島山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>きりしまやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1700</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>31°56′03″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>130°51′42″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/505_Kirishimayama/505_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>130.861666666667,31.9341666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>米丸・住吉池</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>よねまる・すみよしいけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>15</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>31°46′34″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>130°33′55″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/516_Yonemaru_Sumiyoshiike/516_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>130.565277777778,31.7761111111111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>若尊</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>わかみこ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>-77</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>31°39.8′</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>130°47.9′</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/517_Wakamiko/517_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>130.798333333333,31.6633333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>桜島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>さくらじま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1117</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>31°35′33″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>130°39′24″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/506_Sakurajima/506_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>130.656666666667,31.5925</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>池田・山川</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>いけだ・やまがわ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>256</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>31°12′48″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>130°34′02″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/518_Ikeda_Yamagawa/518_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>130.567222222222,31.2133333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>開聞岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>かいもんだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>924</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>31°10′48″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>130°31′42″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/507_Kaimondake/507_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>130.528333333333,31.18</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>薩摩硫黄島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>さつまいおうじま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>704</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>30°47′35″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>130°18′19″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/508_Satsuma-Iojima/508_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>130.305277777778,30.7930555555556</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>口永良部島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>くちのえらぶじま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>657</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>30°26′36″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>130°13′02″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/509_Kuchierabujima/509_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>130.217222222222,30.4433333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>口之島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>くちのしま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>628</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>29°58′05″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>129°55′32″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/519_Kuchinoshima/519_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>129.925555555556,29.9680555555556</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>中之島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>なかのしま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>979</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>29°51′33″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>129°51′25″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/510_Nakanoshima/510_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>129.856944444444,29.8591666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>諏訪之瀬島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>すわのせじま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>796</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>29°38′18″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>129°42′50″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/fukuoka/511_Suwanosejima/511_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>129.713888888889,29.6383333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>硫黄鳥島</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>いおうとりしま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>212</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>27°52′52″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>128°13′21″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/601_Io-Torishima/601_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>128.2225,27.8811111111111</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>西表島北北東海底火山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>いりおもてじまほくほくとうかいていかざん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>-200</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>24°34′</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>123°56′</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/602_IriomotejimaNNE/602_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>123.9333,24.5667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>茂世路岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>もよろだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1124</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>45°23′20″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>148°50′15″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/151_Moyorodake/151_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>148.8375,45.3888888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>散布山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ちりっぷさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1587</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>45°20′15″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>147°55′13″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/152_Chirippusan/152_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>147.920277777778,45.3375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>指臼岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>さしうすだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1125</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>45°05′59″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>148°01′10″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/153_Sashiusudake/153_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>148.019444444444,45.0997222222222</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>小田萌山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>おだもいさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1208</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>45°01′42″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>147°55′03″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/154_Odamoisan/154_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>147.9175,45.0283333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>択捉焼山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>えとろふやけやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1158</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>45°00′43″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>147°52′16″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/155_Etorofu-Yakeyama/155_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>147.871111111111,45.0119444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>択捉阿登佐岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>えとろふあとさぬぷり</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1206</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>44°48′27″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>147°07′51″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/156_Etorofu-Atosanupuri/156_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>147.130833333333,44.8075</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ベルタルベ山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>べるたるべさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1221</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>44°27′42″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>146°55′55″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/157_Berutarubesan/157_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>146.931944444444,44.4616666666667</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>ルルイ岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>るるいだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1486</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>44°27′16″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>146°08′22″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/161_Ruruidake/161_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>146.139444444444,44.4544444444444</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>爺爺岳</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>ちゃちゃだけ</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>1822</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>44°21′12″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>146°15′08″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/158_Chachadake/158_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>146.252222222222,44.3533333333333</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>羅臼山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>らうすさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>882</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>43°58′44″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>145°43′57″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/159_Raususan/159_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>145.7325,43.9788888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>泊山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>とまりやま</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>535</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>43°50′38″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>145°30′16″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/sapporo/160_Tomariyama/160_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>145.504444444444,43.8438888888889</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>男体山</name>
+<description><![CDATA[ <table><tr><td style="color:#0000FF;padding-right:1em;" nowrap>ふりがな</td><td nowrap>なんたいさん</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>標高[m]</td><td nowrap>2486</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>緯度</td><td nowrap>36°45′54″</td></tr><tr><td style="color:#0000FF;padding-right:1em;" nowrap>経度</td><td nowrap>139°29′27″</td></tr><tr><td colspan="2" nowrap><a href="http://www.data.jma.go.jp/svd/vois/data/tokyo/342_Nantaisan/342_index.html" target="_blank">火山活動履歴はこちら</a>（気象庁HP）</td></tr></table> ]]></description>
+<styleUrl>#PolyStyle1</styleUrl>
+<Point>
+<coordinates>139.49083333333334,36.765</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

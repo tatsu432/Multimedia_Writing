@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="mapbox/mapbox-gl.css">
+        <link rel="stylesheet" href="css/qgis2web.css">
+        <style>
+        #map {
+            width: 1184px;
+            height: 987px;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+            <nav id="menu"></nav>
+              <div id="distance" class="distance-container"></div>
+        </div>
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="./mapbox/mapbox-gl.js"></script>
+        <script src="data/KyotoPrefecture_0.js"></script>
+        <script src="data/TokyoPrefecture_1.js"></script>
+        <script src="data/A4318_Preservation_District_of_Historic_Buildings_2.js"></script>
+        <script src="data/A4418_Priority_Area_of_Plan_for_the_Maintenance_and_Improvement_of_Historical_Scenic_Beauty_3.js"></script>
+<script src="./mapbox/style.js"></script>
+<script src="./js/Autolinker.min.js"></script>
+<script>
+var map = new mapboxgl.Map({
+ container: 'map',
+ style: styleJSON,
+ center: [135.47329605022165,35.15943172586768],
+ zoom: 9,
+ bearing: 360.0,
+ attributionControl: false
+});
+map.addControl(new mapboxgl.NavigationControl(), 'top-left');
+map.addControl(new mapboxgl.AttributionControl({
+    customAttribution: '<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://github.com/mapbox/mapbox-gl-js" target="_blank">Mapbox GL JS</a> &middot; <a href="https://qgis.org" target="_blank">QGIS</a>',
+    compact: false
+}));
+var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
+
+map.on('click', 'lyr_KyotoPrefecture_0_0', function (e) {
+    var description = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['N03_001'] !== null ? autolinker.link(e.features[0].properties['N03_001'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['N03_002'] !== null ? autolinker.link(e.features[0].properties['N03_002'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['N03_003'] !== null ? autolinker.link(e.features[0].properties['N03_003'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['N03_004'] !== null ? autolinker.link(e.features[0].properties['N03_004'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['N03_007'] !== null ? autolinker.link(e.features[0].properties['N03_007'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>'
+
+    new mapboxgl.Popup()
+        .setLngLat(e.lngLat)
+        .setHTML(description)
+        .addTo(map);
+});
+
+// Change the cursor to a pointer when the mouse is over the places layer.
+map.on('mouseenter', 'lyr_KyotoPrefecture_0_0', function () {
+    map.getCanvas().style.cursor = 'pointer';
+});
+
+// Change it back to a pointer when it leaves.
+map.on('mouseleave', 'lyr_KyotoPrefecture_0_0', function () {
+    map.getCanvas().style.cursor = '';
+});
+map.on('click', 'lyr_TokyoPrefecture_1_0', function (e) {
+    var description = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['N03_001'] !== null ? autolinker.link(e.features[0].properties['N03_001'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['N03_002'] !== null ? autolinker.link(e.features[0].properties['N03_002'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['N03_003'] !== null ? autolinker.link(e.features[0].properties['N03_003'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['N03_004'] !== null ? autolinker.link(e.features[0].properties['N03_004'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['N03_007'] !== null ? autolinker.link(e.features[0].properties['N03_007'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>'
+
+    new mapboxgl.Popup()
+        .setLngLat(e.lngLat)
+        .setHTML(description)
+        .addTo(map);
+});
+
+// Change the cursor to a pointer when the mouse is over the places layer.
+map.on('mouseenter', 'lyr_TokyoPrefecture_1_0', function () {
+    map.getCanvas().style.cursor = 'pointer';
+});
+
+// Change it back to a pointer when it leaves.
+map.on('mouseleave', 'lyr_TokyoPrefecture_1_0', function () {
+    map.getCanvas().style.cursor = '';
+});
+map.on('click', 'lyr_A4318_Preservation_District_of_Historic_Buildings_2_0', function (e) {
+    var description = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A43_001'] !== null ? autolinker.link(e.features[0].properties['A43_001'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A43_002'] !== null ? autolinker.link(e.features[0].properties['A43_002'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A43_003'] !== null ? autolinker.link(e.features[0].properties['A43_003'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A43_004'] !== null ? autolinker.link(e.features[0].properties['A43_004'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A43_005'] !== null ? autolinker.link(e.features[0].properties['A43_005'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A43_006'] !== null ? autolinker.link(e.features[0].properties['A43_006'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A43_007'] !== null ? autolinker.link(e.features[0].properties['A43_007'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A43_008'] !== null ? autolinker.link(e.features[0].properties['A43_008'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A43_009'] !== null ? autolinker.link(e.features[0].properties['A43_009'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A43_010'] !== null ? autolinker.link(e.features[0].properties['A43_010'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A43_011'] !== null ? autolinker.link(e.features[0].properties['A43_011'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A43_012'] !== null ? autolinker.link(e.features[0].properties['A43_012'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>'
+
+    new mapboxgl.Popup()
+        .setLngLat(e.lngLat)
+        .setHTML(description)
+        .addTo(map);
+});
+
+// Change the cursor to a pointer when the mouse is over the places layer.
+map.on('mouseenter', 'lyr_A4318_Preservation_District_of_Historic_Buildings_2_0', function () {
+    map.getCanvas().style.cursor = 'pointer';
+});
+
+// Change it back to a pointer when it leaves.
+map.on('mouseleave', 'lyr_A4318_Preservation_District_of_Historic_Buildings_2_0', function () {
+    map.getCanvas().style.cursor = '';
+});
+map.on('click', 'lyr_A4418_Priority_Area_of_Plan_for_the_Maintenance_and_Improvement_of_Historical_Scenic_Beauty_3_0', function (e) {
+    var description = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A44_001'] !== null ? autolinker.link(e.features[0].properties['A44_001'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A44_002'] !== null ? autolinker.link(e.features[0].properties['A44_002'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A44_003'] !== null ? autolinker.link(e.features[0].properties['A44_003'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A44_004'] !== null ? autolinker.link(e.features[0].properties['A44_004'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A44_005'] !== null ? autolinker.link(e.features[0].properties['A44_005'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A44_006'] !== null ? autolinker.link(e.features[0].properties['A44_006'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A44_007'] !== null ? autolinker.link(e.features[0].properties['A44_007'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A44_008'] !== null ? autolinker.link(e.features[0].properties['A44_008'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A44_009'] !== null ? autolinker.link(e.features[0].properties['A44_009'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (e.features[0].properties['A44_010'] !== null ? autolinker.link(e.features[0].properties['A44_010'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>'
+
+    new mapboxgl.Popup()
+        .setLngLat(e.lngLat)
+        .setHTML(description)
+        .addTo(map);
+});
+
+// Change the cursor to a pointer when the mouse is over the places layer.
+map.on('mouseenter', 'lyr_A4418_Priority_Area_of_Plan_for_the_Maintenance_and_Improvement_of_Historical_Scenic_Beauty_3_0', function () {
+    map.getCanvas().style.cursor = 'pointer';
+});
+
+// Change it back to a pointer when it leaves.
+map.on('mouseleave', 'lyr_A4418_Priority_Area_of_Plan_for_the_Maintenance_and_Improvement_of_Historical_Scenic_Beauty_3_0', function () {
+    map.getCanvas().style.cursor = '';
+});
+</script>
+    </body>
+</html>
